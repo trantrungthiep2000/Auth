@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authen.Cookie", "Authen.Cookie\Authen.Cookie.csproj", "{7AD1A60A-81BF-4BA1-B1EA-01BFA7CE937B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authen.Jwt", "Authen.Jwt\Authen.Jwt.csproj", "{3FFA5681-5F81-49E0-96CD-2A23B2B20E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD1A60A-81BF-4BA1-B1EA-01BFA7CE937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD1A60A-81BF-4BA1-B1EA-01BFA7CE937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD1A60A-81BF-4BA1-B1EA-01BFA7CE937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD1A60A-81BF-4BA1-B1EA-01BFA7CE937B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFA5681-5F81-49E0-96CD-2A23B2B20E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFA5681-5F81-49E0-96CD-2A23B2B20E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFA5681-5F81-49E0-96CD-2A23B2B20E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFA5681-5F81-49E0-96CD-2A23B2B20E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594465F5-8468-4226-A456-32E7DA055CFE}
+	EndGlobalSection
+EndGlobal
